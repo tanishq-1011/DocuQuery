@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 PDF Conversational Retrieval App with Chainlit
+# 🧠 DocuQuery – Seamlessly query and explore documents with natural conversations.
 
 This project demonstrates a **Conversational Retrieval System** that allows users to upload PDF files and interact with the content using natural language questions. Powered by **LangChain**, **OllamaEmbeddings**, **PyPDF2**, **Chroma**, and **Chainlit**, the app extracts text from PDFs, converts it into chunks, creates a vector store for efficient retrieval, and uses conversational models to answer user questions about the PDF content.
 
